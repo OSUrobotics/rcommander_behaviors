@@ -23,7 +23,7 @@ p10
 F0.16
 sS'trans_tolerance'
 p11
-F0.02
+F0.01
 sS'pose_stamped'
 p12
 ccopy_reg
@@ -52,8 +52,8 @@ p21
 g15
 NtRp22
 (lp23
-I1354126735
-aI563744068
+I1354132849
+aI144179105
 abaS'/freeze_frame0'
 p24
 abag13
@@ -71,7 +71,7 @@ g15
 NtRp29
 (lp30
 F-0.070000000000000007
-aF0.059999999999999998
+aF0.029999999999999999
 aF0
 abag13
 (cgeometry_msgs.msg._Quaternion
